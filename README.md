@@ -1,4 +1,4 @@
-<!-- ## 1、预处理
+## 1、预处理
 ### （1）、特征提取
 - 对应文件：feature_extraction.py
 
@@ -277,4 +277,4 @@ analysis_file(filepath_in, filepath_out, encoding="utf-8", print_show=False, sta
 
 - 优点：准确率高
 
-- 缺点：训练耗时 -->
+- 缺点：训练耗时
